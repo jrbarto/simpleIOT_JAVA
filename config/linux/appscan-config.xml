@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration>
   <Targets>
-    <Target path="../../simpleIOT_Java/bin" /> <!-- The path to your target -->
+    <Target path="../../bin" /> <!-- The path to your target -->
     <!-- You can add more targets with the <Target> tag. -->
   </Targets>
 
